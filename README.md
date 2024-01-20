@@ -7,6 +7,6 @@
 -  configuracion del editor
 `$ git config --global core.editor "code --wait"`
 -  configuracion de saltos de linea
-`$ git config --global core.autocrlf true
+`$ git config --global core.autocrlf true`
 
 
